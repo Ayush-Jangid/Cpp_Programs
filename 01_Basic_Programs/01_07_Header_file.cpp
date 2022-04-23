@@ -1,0 +1,13 @@
+// There are two types of header file:-
+// 1. System Header file:- It comes with compiler...
+#include <iostream> // This is a system defined header file...
+using namespace std;
+
+// 2. User Defined Header file:- Is is written by the programmer...
+// #include <user.h> // --> This will produce error if "user.h" is not present in your current directory...
+
+int main(){
+
+
+    return 0;
+}
